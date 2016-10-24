@@ -3,7 +3,7 @@ layout: cv
 title: Grant Pearson's CV
 ---
 
-![Harold](./media/21.png){:.avatar}
+![Grant](./media/firespinning.jpg){:.avatar}
 
 #Grant Pearson
 Computer Science Student and Technology aficionado
@@ -30,6 +30,7 @@ __University of Computers__ Bachelor's degree in Computer Science
 
 * HTML and CSS
 * Javascript
+* C#
 
 ## Projects
 
@@ -46,19 +47,18 @@ Achievement 2
 ## Experience
 
 `2010-11`
-__Roasted Bean Coffe House__ 
- Worked for two summers on the Roasted Bean Coffe House as a barista.
+__Pumpkin Station__ 
+ Worked for two falls at the Pumkpin Station as ride operator.
 
 ## Hobbies
 
-* Hiking
-* Riding 
+* Table Top Games
+* Camping 
 * Cooking
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:">mymail@mymail.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/">my account</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a><br />
+* <i class="fa fa-envelope"></i> <a href="mailto:">grantpearson0@gmail.com</a><br />
+* <i class="fa fa-github"></i> <a href="https://github.com/GPearsonSSF">My Github</a><br />
 * <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/">SO Account</a>
 * <i class="fa fa-google"></i> <a href="http://scholar.google.com/">scholar</a>
